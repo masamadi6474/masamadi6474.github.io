@@ -5,7 +5,7 @@ title: My new project with hard disc
 
 ## this is my haniwork with a hard disc
 
-- The first picture
+- The first picture:
 ![alt]({{masamadi6474.github.io}}/C:\dev\personal_website_template\assets\images “A.jpg”)
 
 ---
