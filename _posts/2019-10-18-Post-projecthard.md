@@ -5,12 +5,7 @@ title: My new project with hard disc
 
 ## this is my haniwork with a hard disc
 
-- The first picture:
-![alt text]({{masamadi6474.github.io}}/C:\dev\personal_website_template\assets\images “A.jpg”)
-
-
-- The first picture:
-![alt text]({{masamadi6474.github.io}}/C:\dev\personal_website_template\assets\images “B.jpg”)
-
+- اولین مرحله:
+![an image alt text]({{masamadi6474.github.io}}/assets/images/23.jpg "در حال باز کردن")
 ---
 **Test**: This is atest
