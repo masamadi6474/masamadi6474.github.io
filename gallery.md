@@ -31,7 +31,7 @@ gallery:
     image_path: /assets/images/ax.jpg
     alt: "placeholder image ax"
     title: "Image ax title caption"
-         - url: /assets/images/exam.jpg
+     - url: /assets/images/exam.jpg
     image_path: /assets/images/exam.jpg
     alt: "placeholder image exam"
     title: "Image exan title caption"
